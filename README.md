@@ -1,1 +1,1 @@
-OTP auth
+OTP based authentication.
